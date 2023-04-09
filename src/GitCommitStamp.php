@@ -1,6 +1,8 @@
 <?php
+
 /*
  * Copyright (C) 2008 Patrik Fimml
+ * Copyright (c) 2023 Daniel Marschall
  *
  * This file is part of glip.
  *

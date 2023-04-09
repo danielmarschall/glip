@@ -1,10 +1,12 @@
 <?php
+
 /*
  * binary.class.php:
  * Utility functions for dealing with binary files/strings.
  * All functions assume network byte order (big-endian).
  *
  * Copyright (C) 2008, 2009 Patrik Fimml
+ * Copyright (c) 2023 Daniel Marschall
  *
  * This file is part of glip.
  *

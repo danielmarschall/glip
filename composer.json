@@ -5,7 +5,7 @@
   "description": "Git library for PHP",
   "keywords": ["git"],
   "homepage": "https://fimml.at/projects/glip",
-  "license": "GNU GPLv2",
+  "license": "GPL-2.0-or-later",
   "authors": [
     {
       "name": "Patrik Fimml",
