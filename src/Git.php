@@ -368,7 +368,7 @@ class Git
 					continue;
 				$parts = explode(' ', trim($line));
 				if (count($parts) == 2 && $parts[1] == $subpath)
-					$head = pack('H40', $parts[0]);;
+					$head = pack('H40', $parts[0]);
 			}
 			fclose($f);
 			if ($head !== null)
